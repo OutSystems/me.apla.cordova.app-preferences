@@ -47,6 +47,8 @@
 
 		<header-file src="src/ios/AppPreferences.h" />
 		<source-file src="src/ios/AppPreferences.m" />
+		
+		<resource-file src="www/app-settings.json" target="app-settings.json" />
 
 	</platform>
 
