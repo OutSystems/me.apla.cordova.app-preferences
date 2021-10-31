@@ -9,7 +9,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "plist": "~1.0.1",
+    "plist": "~1.2.0",
     "q": "~1.4.1",
     "elementtree": "~0.1.6",
     "xcode": "~0.8.2"
